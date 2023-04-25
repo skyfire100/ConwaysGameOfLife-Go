@@ -21,5 +21,5 @@ To start the Game of Life, run the binary:
 This will start the game with a random initial state.
 
 
-License
+## License
 This project is licensed under the GNU General Public License v3.0 License.
